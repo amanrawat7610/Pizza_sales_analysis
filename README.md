@@ -1,3 +1,5 @@
+![alt text](<Screenshot 2026-05-18 110111.png>)
+
 # 🍕 Pizza Sales Analysis Dashboard
 
 ## 📌 Project Overview
