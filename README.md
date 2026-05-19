@@ -1,6 +1,6 @@
-![alt text](<Screenshot 2026-05-18 110111.png>)
 
 # 🍕 Pizza Sales Analysis Dashboard
+<img width="1446" height="824" alt="image" src="https://github.com/user-attachments/assets/5bb409b4-1bac-4eca-915f-e4f833da84c6" />
 
 ## 📌 Project Overview
 
